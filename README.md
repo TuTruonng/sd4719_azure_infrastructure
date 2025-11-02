@@ -1,1 +1,0 @@
-# sd4719_azure_infrastructure
